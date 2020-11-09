@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"office-map-meeting-room"
+                 "value":"virtuo-office-map-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"office-map-chill-zone"
+                 "value":"virtuo-office-map-chill-zone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -99,6 +99,12 @@
          "id":23,
          "name":"silentRoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

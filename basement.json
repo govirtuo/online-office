@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"basement-meeting-room"
+                 "value":"virtuo-basement-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
